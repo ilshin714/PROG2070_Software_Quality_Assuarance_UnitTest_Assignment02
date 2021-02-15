@@ -1,0 +1,17 @@
+C:\Users\shinny\Desktop\Level4\PROG2070 QA\03.Assignments\02.Assignment2\IJAssignment02\IJAssignment02.Tests\bin\Debug\IJAssignment02.Tests.dll
+C:\Users\shinny\Desktop\Level4\PROG2070 QA\03.Assignments\02.Assignment2\IJAssignment02\IJAssignment02.Tests\bin\Debug\IJAssignment02.Tests.pdb
+C:\Users\shinny\Desktop\Level4\PROG2070 QA\03.Assignments\02.Assignment2\IJAssignment02\IJAssignment02.Tests\bin\Debug\IJAssignment02.exe
+C:\Users\shinny\Desktop\Level4\PROG2070 QA\03.Assignments\02.Assignment2\IJAssignment02\IJAssignment02.Tests\bin\Debug\nunit.framework.dll
+C:\Users\shinny\Desktop\Level4\PROG2070 QA\03.Assignments\02.Assignment2\IJAssignment02\IJAssignment02.Tests\bin\Debug\IJAssignment02.pdb
+C:\Users\shinny\Desktop\Level4\PROG2070 QA\03.Assignments\02.Assignment2\IJAssignment02\IJAssignment02.Tests\bin\Debug\IJAssignment02.exe.config
+C:\Users\shinny\Desktop\Level4\PROG2070 QA\03.Assignments\02.Assignment2\IJAssignment02\IJAssignment02.Tests\bin\Debug\nunit.framework.xml
+C:\Users\shinny\Desktop\Level4\PROG2070 QA\03.Assignments\02.Assignment2\IJAssignment02\IJAssignment02.Tests\obj\Debug\IJAssignment02.Tests.csprojAssemblyReference.cache
+C:\Users\shinny\Desktop\Level4\PROG2070 QA\03.Assignments\02.Assignment2\IJAssignment02\IJAssignment02.Tests\obj\Debug\IJAssignment02.Tests.csproj.CoreCompileInputs.cache
+C:\Users\shinny\Desktop\Level4\PROG2070 QA\03.Assignments\02.Assignment2\IJAssignment02\IJAssignment02.Tests\obj\Debug\IJAssignment02.Tests.csproj.CopyComplete
+C:\Users\shinny\Desktop\Level4\PROG2070 QA\03.Assignments\02.Assignment2\IJAssignment02\IJAssignment02.Tests\obj\Debug\IJAssignment02.Tests.dll
+C:\Users\shinny\Desktop\Level4\PROG2070 QA\03.Assignments\02.Assignment2\IJAssignment02\IJAssignment02.Tests\obj\Debug\IJAssignment02.Tests.pdb
+C:\Users\shinny\Desktop\Level4\PROG2070 QA\03.Assignments\02.Assignment2\IJAssignment02\IJAssignment02.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\shinny\Desktop\Level4\PROG2070 QA\03.Assignments\02.Assignment2\IJAssignment02\IJAssignment02.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\shinny\Desktop\Level4\PROG2070 QA\03.Assignments\02.Assignment2\IJAssignment02\IJAssignment02.Tests\bin\Debug\nunit.engine.dll
+C:\Users\shinny\Desktop\Level4\PROG2070 QA\03.Assignments\02.Assignment2\IJAssignment02\IJAssignment02.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\shinny\Desktop\Level4\PROG2070 QA\03.Assignments\02.Assignment2\IJAssignment02\IJAssignment02.Tests\bin\Debug\nunit.engine.core.dll

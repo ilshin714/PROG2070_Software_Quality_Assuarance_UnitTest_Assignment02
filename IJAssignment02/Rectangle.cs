@@ -15,7 +15,7 @@ namespace IJAssignment02
     /// <summary>
     /// Rectangle class
     /// </summary>
-    class Rectangle
+    public class Rectangle
     {
         /// <summary>
         /// lentgh variable
